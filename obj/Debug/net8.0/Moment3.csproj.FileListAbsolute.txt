@@ -1,0 +1,14 @@
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\obj\Debug\net8.0\Moment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\obj\Debug\net8.0\Moment3.AssemblyInfoInputs.cache
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\obj\Debug\net8.0\Moment3.AssemblyInfo.cs
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\obj\Debug\net8.0\Moment3.csproj.CoreCompileInputs.cache
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\bin\Debug\net8.0\Moment3.exe
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\bin\Debug\net8.0\Moment3.deps.json
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\bin\Debug\net8.0\Moment3.runtimeconfig.json
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\bin\Debug\net8.0\Moment3.dll
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\bin\Debug\net8.0\Moment3.pdb
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\obj\Debug\net8.0\Moment3.dll
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\obj\Debug\net8.0\refint\Moment3.dll
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\obj\Debug\net8.0\Moment3.pdb
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\obj\Debug\net8.0\Moment3.genruntimeconfig.cache
+C:\Webbutveckling\DT071G-Programmering i C.NET\Moment3\obj\Debug\net8.0\ref\Moment3.dll
